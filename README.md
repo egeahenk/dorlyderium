@@ -1,2 +1,2 @@
 # visualnovel
-Visual Novel Template
+Visual Novel
